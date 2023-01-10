@@ -1,0 +1,20 @@
+[
+    {
+        "modelo": "ford mustang",
+        "Produccion": 2010,
+        "Km": 12000
+    },
+
+    {
+        "modelo": "honda accord",
+        "Produccion": 2021,
+        "Km": 4500
+    },
+
+    {
+        "modelo": "volkswagen Golf",
+        "Produccion": 2016,
+        "Km": 45000
+    }
+    
+]
